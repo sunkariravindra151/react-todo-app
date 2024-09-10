@@ -1,0 +1,28 @@
+h1{
+   margin-left: 89px; 
+   font-size: xx-large;
+   font-weight: 100;
+}
+.heading{
+    margin-top: 10px;
+}
+input{
+    width: 100%;
+}
+.Text-Content{
+    margin-left: 17%;
+    margin-top: 3%;
+    text-align: left;
+}
+
+.new-row{
+    margin: 3%;
+}
+.new-button{
+    max-height: 40px;
+}
+.new-col-4{
+    padding-top: 1.35%;
+}
+
+

@@ -1,0 +1,10 @@
+
+.cardContainer{
+    width: 60%;
+    background-color: aliceblue;
+    padding: 20px;
+    border: 1px rgb(176, 175, 175) solid;
+    box-sizing: content-box;
+    border-radius: 5px;
+    margin: 70px;
+}
